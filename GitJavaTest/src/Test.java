@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 public class Test {
 
@@ -7,3 +8,13 @@ public class Test {
 	
 	// Fail oder ?
 }
+=======
+
+public class Test {
+
+	//z;
+	
+	
+	// Es funktioniert :D !!
+}
+>>>>>>> origin/master
